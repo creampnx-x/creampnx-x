@@ -1,9 +1,6 @@
 👋 hi there 
 
-+ i'm a developer.
-  + to web. 💻
-  + to llm application. 🧑‍🍼
-  + to system. ✖
++ focus on application.
 
 + contact me.
   + mapinxue@qq.com 📫
